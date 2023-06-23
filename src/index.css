@@ -1,0 +1,150 @@
+body {
+    background-image: url("../public/images/background2.jpg");
+    background-size: cover;
+    color: #253237;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  
+  .features {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .card-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .card {
+    box-shadow: 0px 5px 7px #25323762;
+  }
+  
+  .navbar {
+    background-color: #f8f9fa;
+    box-shadow: 0 3px 8px #25323762;
+  }
+  
+  .nav-link:hover {
+    color: #212529;
+  }
+  
+  .btn {
+    color: white;
+    background-color: #212529;
+  }
+  
+  .btn-primary {
+    border-color: #212529;
+  }
+  
+  .nav-item:hover {
+    background-color: #8d99ae6c;
+    border-radius: 3px;
+  }
+  
+  .card-title {
+    color: #212529;
+    font-size: 35px;
+  }
+  
+  .popup-box {
+    position: fixed;
+    background: #00000050;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+  }
+  
+  .box {
+    position: relative;
+    width: fit-content;
+    margin: 0 auto;
+    max-height: 90vh;
+    margin-top: calc(95vh - 85vh - 20px);
+    background: transparent;
+    border-radius: 5px;
+    padding: 20px;
+    border: none;
+    overflow: auto;
+  }
+  
+  .custom-input-box {
+    width: 500px;
+  }
+  
+  .custom-btn-group {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .custom-btn-cancel {
+    background-color: rgb(71, 71, 71);
+  }
+  
+  .clickable {
+    cursor: pointer;
+  }
+  
+  .bad-policy-practice {
+    font-size: 8px;
+    color: rgb(161, 161, 161);
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .avatar-container {
+    text-align: center;
+  }
+  
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 50%;
+  }
+  
+  .userInfo-container {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .custom-table {
+    height: 329px;
+  }
+  
+  .report-container {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .chart-container {
+    background-color: white;
+    border-radius: 5px;
+    width: 650px;
+    margin-top: 30px;
+    padding: 5px;
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+  }
