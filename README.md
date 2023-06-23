@@ -1,4 +1,4 @@
-# BadBank
+# Bad Bank Capstone
 
 ## App Information
 
