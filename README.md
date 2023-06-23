@@ -17,13 +17,13 @@ This project uses Bootstrap with [Create React App](https://github.com/facebook/
 In project directory, run:
 
 ### `npm start` 
-- Run app in development mode. \Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Run app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm test`
-- Launches the test runner in interactive watch mode. \See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Launches the test runner in interactive watch mode. See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
-- Builds the app for production to `build` folder. \It correctly bundles React in production mode and optimizes the build for the best performance.
+- Builds the app for production to `build` folder. It correctly bundles React in production mode and optimizes the build for the best performance. Your app is ready for [deployment](https://facebook.github.io/create-react-app/docs/deployment).
 
 ### Functionalities available:
 
