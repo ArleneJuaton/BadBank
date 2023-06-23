@@ -6,7 +6,7 @@
 
 ### Description:
 
-Bad Bank is the Capstone Project for Module 2 in the MIT - Fullstack Development with MERN. It is called Bad Bank due to the users data exposured in the UI (intentionally).
+Bad Bank is the Capstone Project for MIT - Fullstack Development with MERN course. It is called Bad Bank with user's data intentionally exposed in the UI (front end).
 
 It consists of a simple React application where the students apply concepts such as hooks, context, routing, and form validations. As well, for the first attempt from the students to deploy a React application using AWS S3 Buckets.
 
