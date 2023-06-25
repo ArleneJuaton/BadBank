@@ -35,7 +35,7 @@ In project directory, run:
 - Withdraw
 - Totals Charts
 
-Link to AWS Deployment: **[Bad Bank]([http://badbank-capstone.s3-website-us-east-1.amazonaws.com](http://arlenejuatonbadbank.s3-website-us-east-1.amazonaws.com)**
+Link to AWS Deployment: **[Bad Bank]([http://arlenejuatonbadbank.s3-website-us-east-1.amazonaws.com])**
 
 ### Future Adds
 
